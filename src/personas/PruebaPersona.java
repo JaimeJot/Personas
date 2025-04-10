@@ -7,7 +7,7 @@ package personas;
  * @version 2
  */
 public class PruebaPersona {
-
+//cambio
     /**
      * Método principal de la clase
      * @param args the command line arguments
